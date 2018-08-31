@@ -73,7 +73,6 @@
       <AccuracyMedium>0.80</AccuracyMedium>
       <AccuracyLong>0.45</AccuracyLong>
       <RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.0</Weapon_Bulk>
     </statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
@@ -155,7 +154,7 @@
       <AccuracyMedium>0.3</AccuracyMedium>
       <AccuracyLong>0.15</AccuracyLong>
       <RangedWeapon_Cooldown>3</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.0</Weapon_Bulk>
+      
     </statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
@@ -239,7 +238,7 @@
       <AccuracyMedium>0.80</AccuracyMedium>
       <AccuracyLong>0.5</AccuracyLong>
       <RangedWeapon_Cooldown>1</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.0</Weapon_Bulk>
+      
     </statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
@@ -303,7 +302,6 @@
     </weaponTags>
 		<statBases>
 			<Mass>25</Mass>
-      <Weapon_Bulk>1.2</Weapon_Bulk>
 		</statBases>
 		<equippedAngleOffset>-65</equippedAngleOffset>
     <tools>
@@ -352,7 +350,6 @@
       <AccuracyMedium>0.80</AccuracyMedium>
       <AccuracyLong>0.65</AccuracyLong>
       <RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.5</Weapon_Bulk>
     </statBases>
 	
 	    <costList>
@@ -437,7 +434,7 @@
       <AccuracyMedium>0.60</AccuracyMedium>
       <AccuracyLong>0.35</AccuracyLong>
       <RangedWeapon_Cooldown>1</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.0</Weapon_Bulk>
+      
     </statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
@@ -554,7 +551,7 @@
       <AccuracyMedium>0.80</AccuracyMedium>
       <AccuracyLong>0.55</AccuracyLong>
       <RangedWeapon_Cooldown>2</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2.0</Weapon_Bulk>
+      
     </statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
@@ -687,7 +684,7 @@
 			<MarketValue>1000</MarketValue>
 			<Mass>45</Mass>
       <RangedWeapon_Cooldown>3.5</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2</Weapon_Bulk>
+      
 		</statBases>
 		<verbs>
 			<li>
@@ -792,7 +789,7 @@
       <AccuracyMedium>0.40</AccuracyMedium>
       <AccuracyLong>0.35</AccuracyLong>
 			<RangedWeapon_Cooldown>3</RangedWeapon_Cooldown>
-      <Weapon_Bulk>2</Weapon_Bulk>
+      
 		</statBases>
     <tradeability>None</tradeability>
     <techLevel>Spacer</techLevel>
