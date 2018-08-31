@@ -37,7 +37,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>SteelPlating</defName>
     <label>steel framing</label>
-    <description>A simple concept: add stronger frames to your androids because circuitry isn't exactly bulletproof.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids \n - K9 Cybernetic Unit \n - M.U.F.F Unit </description>
+    <description>A simple concept: add stronger frames to your androids because circuitry isn't exactly bulletproof.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids \n - K9 Cybernetic Unit \n - M.U.F.F Unit</description>
     <graphicData>
       <texPath>Things/Item/ArmourPlateBasic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -313,7 +313,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>AdvancedReplacementArm</defName>
     <label>high power arm</label>
-    <description>This extremely tough and strong arm was made to deal with a variety of heavy duty workloads such as construction, warfare or post-distaster rescue.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This extremely tough and strong arm was made to deal with a variety of heavy duty workloads such as construction, warfare or post-distaster rescue.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -333,7 +333,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>AdvancedReplacementLeg</defName>
     <label>high power leg</label>
-    <description>This model of leg was developed with speed in mind; used majorly by Android Olympic runners from most glitterworlds.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This model of leg was developed with speed in mind; used majorly by Android Olympic runners from most glitterworlds.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -353,7 +353,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>MultiSpectrumEye</defName>
     <label>advanced light sensor</label>
-    <description>the average human eye and factory standard eyes used for androids are only able to see the visible spectrum of light. This eye model is very different, allowing the host android to switch between infra-red, x-ray and ultraviolet.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>the average human eye and factory standard eyes used for androids are only able to see the visible spectrum of light. This eye model is very different, allowing the host android to switch between infra-red, x-ray and ultraviolet.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -373,7 +373,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>MultiLayerHeatsink</defName>
     <label>advanced heatsink</label>
-    <description>This heatsink is composed of multiple layers of materials for maximum heat transfer.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This heatsink is composed of multiple layers of materials for maximum heat transfer.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -393,7 +393,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>AdvancedCoolantInjector</defName>
     <label>advanced coolant pump</label>
-    <description>This coolant pump no longer operates in rhythmic pulses but now allows for continuous injection of coolant under high pressure.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This coolant pump no longer operates in rhythmic pulses but now allows for continuous injection of coolant under high pressure.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -413,7 +413,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>NanowireBattery</defName>
     <label>advanced battery pack</label>
-    <description>This battery operates under the concept of meshed layers of materials such as gold and plasteel, giving the most electrical output and storage for size.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This battery operates under the concept of meshed layers of materials such as gold and plasteel, giving the most electrical output and storage for size.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -433,7 +433,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>NaniteStorageDevice</defName>
     <label>advanced mechanite storage</label>
-    <description>Compared to it's precursor; this mechanism of repair allows for quicker operation and recovery from memetic hazards such as malicious viruses by releasing a swarm of nanites within the coolant of the android it is host to.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>Compared to it's precursor; this mechanism of repair allows for quicker operation and recovery from memetic hazards such as malicious viruses by releasing a swarm of nanites within the coolant of the android it is host to.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -453,7 +453,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>HighPowerTransformer</defName>
     <label>high power material converter</label>
-    <description>This bio-processor is able to convert most organic matter into energy at very high efficiency.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This bio-processor is able to convert most organic matter into energy at very high efficiency.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -473,7 +473,7 @@
   <ThingDef ParentName="BodyPartAndroidBase">
     <defName>HighPowerConverter</defName>
     <label>high power converter</label>
-    <description>This power converter is capable of converting and manipulation the properties of electrical signals so effectively that it appears to be magical with insant operation and 99.9% convertion efficiency.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This power converter is capable of converting and manipulation the properties of electrical signals so effectively that it appears to be magical with insant operation and 99.9% convertion efficiency.\n\n Can be installed on \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organwhite</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -575,7 +575,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>PositronMindImplant</defName>
     <label>positronic rewiring</label>
-    <description>This implant completely overhauls the standard electronic wiring of the artificial brain. Replacing it with higher efficiency positronic wire pathways.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This implant completely overhauls the standard electronic wiring of the artificial brain. Replacing it with higher efficiency positronic wire pathways.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -595,7 +595,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>SoldierMindImplant</defName>
     <label>soldier upgrade</label>
-    <description>This implant allows the android to perceive the trajectories of projectiles in real time. Along with the ability to perform war simulations inside their own mind as a secondary function.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids  </description>
+    <description>This implant allows the android to perceive the trajectories of projectiles in real time. Along with the ability to perform war simulations inside their own mind as a secondary function.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -615,7 +615,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>BuilderMindImplant</defName>
     <label>blueprint banks</label>
-    <description>Allowing the android to store multiple banks of blueprints at once, this helps the android massively with construction.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>Allowing the android to store multiple banks of blueprints at once, this helps the android massively with construction.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -635,7 +635,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>SurgeonMindImplant</defName>
     <label>tricorder implant</label>
-    <description>This tricorder has been minified by a factor of ten for fitting within an androids mind. This version allows the android to scan biological creatures and determine a diagnosis with just a glance.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This tricorder has been minified by a factor of ten for fitting within an androids mind. This version allows the android to scan biological creatures and determine a diagnosis with just a glance.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -655,7 +655,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>SpeedMindImplant</defName>
     <label>neural highways</label>
-    <description>This implant remaps the inner workings of the mind, allowing the formation of "highways" for electronic signals.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This implant remaps the inner workings of the mind, allowing the formation of "highways" for electronic signals.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -675,7 +675,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>GeoMindImplant</defName>
     <label>Geological banks</label>
-    <description>This implant when installed; helps an android by overlaying augmented vision of the rock face they are mining from. Showing them real time updates on how to remove rock and material from rock with the highest efficiency.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This implant when installed; helps an android by overlaying augmented vision of the rock face they are mining from. Showing them real time updates on how to remove rock and material from rock with the highest efficiency.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -698,7 +698,7 @@
     <ThingDef ParentName="BodyPartAndroidBase">
     <defName>EvolvingImplant</defName>
     <label>Evolving AI Upgrade</label>
-    <description>This implant allows the current AI to evolve on itself. Over time - this pawn will slowly become more and more mentally complex. Reaching peak efficiency in all it does.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This implant allows the current AI to evolve on itself. Over time - this pawn will slowly become more and more mentally complex. Reaching peak efficiency in all it does.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/Organgold</texPath>
       <graphicClass>Graphic_Single</graphicClass>

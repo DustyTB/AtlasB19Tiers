@@ -7,6 +7,7 @@
     <hitPoints>60</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -18,6 +19,7 @@
     <hitPoints>40</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -29,6 +31,7 @@
     <frostbiteVulnerability>0</frostbiteVulnerability>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -40,6 +43,7 @@
     <frostbiteVulnerability>0</frostbiteVulnerability>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -50,6 +54,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -65,6 +70,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -75,6 +81,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0.2</bleedRate>
     <solid>true</solid>
     
     <socketed>true</socketed>
@@ -89,6 +96,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0.2</bleedRate>
     <solid>true</solid>
     
     <socketed>true</socketed>
@@ -103,6 +111,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -116,6 +125,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -129,6 +139,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
   </BodyPartDef>
@@ -139,6 +150,7 @@
     <hitPoints>25</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -152,6 +164,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -165,6 +178,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -179,6 +193,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -193,6 +208,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -207,6 +223,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -221,6 +238,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -234,6 +252,7 @@
     <hitPoints>25</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -247,6 +266,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -260,6 +280,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -274,6 +295,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -288,6 +310,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -302,6 +325,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -316,6 +340,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -329,6 +354,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -342,6 +368,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -355,6 +382,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -368,6 +396,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -381,6 +410,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -395,6 +425,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
 		<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
     <solid>true</solid>
     
     <tags>
@@ -411,6 +442,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.05</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -425,6 +457,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.1</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -439,6 +472,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.05</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -453,6 +487,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 		<frostbiteVulnerability>0.1</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -468,6 +503,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.05</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -482,6 +518,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.1</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -496,6 +533,7 @@
     <hitPoints>30</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.05</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -510,6 +548,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.1</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -524,6 +563,7 @@
     <hitPoints>10</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
+<bleedRate>0</bleedRate>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <solid>true</solid>
     
@@ -538,7 +578,7 @@
     <hitPoints>15</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
-	
+<bleedRate>0</bleedRate>
     <tags>
       <li>ManipulationLimbCore</li>
     </tags>
@@ -551,7 +591,7 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
     <solid>true</solid>
-    
+<bleedRate>0</bleedRate>
   </BodyPartDef>
   
     <BodyPartDef>
@@ -560,7 +600,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
-	
+<bleedRate>0</bleedRate>
     <tags>
       <li>ManipulationLimbCore</li>
     </tags>
@@ -572,7 +612,7 @@
     <hitPoints>20</hitPoints>
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
-	
+<bleedRate>0</bleedRate>
     <tags>
       <li>ManipulationLimbCore</li>
     </tags>
@@ -586,7 +626,7 @@
     <skinCovered>false</skinCovered>
 	<frostbiteVulnerability>0.05</frostbiteVulnerability>
     <solid>true</solid>
-    
+ <bleedRate>0</bleedRate>
     <tags>
       <li>MovingLimbCore</li>
     </tags>
@@ -600,7 +640,7 @@
     <skinCovered>false</skinCovered>
 	<frostbiteVulnerability>0.01</frostbiteVulnerability>
     <solid>true</solid>
-    
+<bleedRate>0</bleedRate>
     <tags>
       <li>MovingLimbSegment</li>
     </tags>
