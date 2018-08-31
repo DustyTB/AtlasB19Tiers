@@ -1328,7 +1328,7 @@
   <ThingDef ParentName="MakeableDrugBase">
     <defName>RegenPillAt</defName>
     <label>Mono-salve pill</label>
-    <description>This pill contains a small vial of 'regenerative' fluid that vastly increases the health regeneration of both organics and androids, although originally designed just for the latter. When ingested by an android, it will circulate the system and place small amounts of a self-repairing solvent onto everything it passes, encouraging small gaps in metal to heal and repair more efficiently. \n\n Organics still have the potential to benefit from this but on a vastly reduced scale, with the pill promoting cell growth in areas of injury instead. Albeit somewhat toxic in high doses. </description>
+    <description>This pill contains a small vial of 'regenerative' fluid that vastly increases the health regeneration of both organics and androids, although originally designed just for the latter. When ingested by an android, it will circulate the system and place small amounts of a self-repairing solvent onto everything it passes, encouraging small gaps in metal to heal and repair more efficiently. \n\n Organics still have the potential to benefit from this but on a vastly reduced scale, with the pill promoting cell growth in areas of injury instead. Albeit somewhat toxic in high doses.</description>
     <graphicData>
       <texPath>Things/Drugs/RegenPillAT</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
