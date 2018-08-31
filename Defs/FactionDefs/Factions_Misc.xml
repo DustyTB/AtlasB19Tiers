@@ -133,7 +133,7 @@
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
     <canStageAttacks>true</canStageAttacks>
-		<appreciative>false</appreciative>
+		<permanentEnemy>true</permanentEnemy>
     <leaderTitle>boss</leaderTitle>
     <expandingIconTexture>World/WorldObjects/Expanding/PirateOutpost</expandingIconTexture>
     <colorSpectrum>
@@ -146,7 +146,7 @@
       <max>-90</max>
     </startingGoodwill>
     <mustStartOneEnemy>true</mustStartOneEnemy>
-		<factionNameMaker>NamerFactionPirate</factionNameMaker>
+		<!-- <factionNameMaker>NamerFactionPirate</factionNameMaker> DUPLICATE -->
     <factionNameMaker>NamerFactionBasePirate</factionNameMaker>
 		<techLevel>Spacer</techLevel>
 		<backstoryCategories><li>Raider</li></backstoryCategories>

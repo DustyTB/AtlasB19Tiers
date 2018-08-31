@@ -6,7 +6,7 @@
 		<drawGUIOverlay>true</drawGUIOverlay>
 		<altitudeLayer>Item</altitudeLayer>
 		<alwaysHaulable>true</alwaysHaulable>
-		<tickerType>None</tickerType>
+		<tickerType>Never</tickerType>
 		<equipmentType>Primary</equipmentType>
 		<useHitPoints>true</useHitPoints>
 		<pathCost>10</pathCost>
