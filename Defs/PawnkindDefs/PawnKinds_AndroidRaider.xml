@@ -220,8 +220,7 @@
       <max>4000</max>
     </weaponMoney>
     <weaponTags>
-	  <li>EliteGun</li>
-      <li>AdvancedGun</li>
+	  <li>IndustrialGunAdvanced</li>
     </weaponTags>
     <techHediffsMoney>
       <min>2000</min>
