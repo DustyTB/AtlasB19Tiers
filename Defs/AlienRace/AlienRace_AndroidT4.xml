@@ -322,7 +322,7 @@
 		</recipes>
 		<butcherProducts>
 			<Plasteel>90</Plasteel>
-			<Component>15</Component>
+			<ComponentIndustrial>15</ComponentIndustrial>
 			<AIPersonaCore>1</AIPersonaCore>
 		</butcherProducts>
 		<modExtensions>

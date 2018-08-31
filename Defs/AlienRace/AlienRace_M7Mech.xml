@@ -309,7 +309,7 @@
 		
 		<butcherProducts>
 			<Plasteel>160</Plasteel>
-			<Component>50</Component>
+			<ComponentIndustrial>50</ComponentIndustrial>
 			<Gold>6</Gold>
 		</butcherProducts>
 <modExtensions>

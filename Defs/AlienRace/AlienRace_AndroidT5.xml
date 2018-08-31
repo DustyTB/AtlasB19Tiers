@@ -370,7 +370,7 @@
 		</recipes>
 		<butcherProducts>
 			<Plasteel>140</Plasteel>
-			<Component>50</Component>
+			<ComponentIndustrial>50</ComponentIndustrial>
 			<AIPersonaCore>1</AIPersonaCore>
 		</butcherProducts>
 		<modExtensions>

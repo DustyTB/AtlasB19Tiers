@@ -318,7 +318,7 @@
 		</recipes>
 		<butcherProducts>
 			<Plasteel>60</Plasteel>
-			<Component>6</Component>
+			<ComponentIndustrial>6</ComponentIndustrial>
 		</butcherProducts>
 		<modExtensions>
     <li Class="MOARANDROIDS.AndroidTweaker">

@@ -325,7 +325,7 @@
 		</recipes>
 		<butcherProducts>
 			<Plasteel>25</Plasteel>
-			<Component>2</Component>
+			<ComponentIndustrial>2</ComponentIndustrial>
 		</butcherProducts>
 		<modExtensions>
     <li Class="MOARANDROIDS.AndroidTweaker">
