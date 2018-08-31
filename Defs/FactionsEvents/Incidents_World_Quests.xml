@@ -64,7 +64,7 @@
 		<label>wanderer join</label>
 		<category>Misc</category>
     <targetTags>
-      <li>MapPlayerHome</li>
+      <li>Map_PlayerHome</li>
     </targetTags>
 		<workerClass>MOARANDROIDS.IncidentWorker_MutantJoin</workerClass>
 		<baseChance>0.1</baseChance>
