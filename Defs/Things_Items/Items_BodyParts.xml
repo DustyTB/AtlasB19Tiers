@@ -595,7 +595,7 @@
    <ThingDef ParentName="BodyPartAndroidBase">
     <defName>SoldierMindImplant</defName>
     <label>soldier upgrade</label>
-    <description>This implant allows the android to perceive the trajectories of projectiles in real time. Along with the ability to perform war simulations inside their own mind as a secondary function.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids </description>
+    <description>This implant allows the android to perceive the trajectories of projectiles in real time. Along with the ability to perform war simulations inside their own mind as a secondary function.\n\n Can be installed on \n - T1 Androids \n - T2 Androids \n - T3 Androids \n - T4 Androids \n - T5 Androids</description>
     <graphicData>
       <texPath>Things/Item/OrganPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
