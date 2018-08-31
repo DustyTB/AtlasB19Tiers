@@ -9,7 +9,7 @@
     <stackLimit>300</stackLimit>
     <maxCumulatedOpinionOffset>10</maxCumulatedOpinionOffset>
     <nullifyingTraits>
-      <li>Prosthophobe</li>
+      <li>BodyPurist</li>
     </nullifyingTraits>
     <stages>
       <li>
@@ -25,7 +25,7 @@
     <stackLimit>300</stackLimit>
     <maxCumulatedOpinionOffset>10</maxCumulatedOpinionOffset>
     <nullifyingTraits>
-      <li>Prosthophobe</li>
+      <li>BodyPurist</li>
     </nullifyingTraits>
     <stages>
       <li>
