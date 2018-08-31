@@ -82,7 +82,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
 <bleedRate>0.2</bleedRate>
-    <solid>true</solid>
     
     <socketed>true</socketed>
     <tags>
@@ -97,7 +96,6 @@
     <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
     <skinCovered>false</skinCovered>
 <bleedRate>0.2</bleedRate>
-    <solid>true</solid>
     
     <socketed>true</socketed>
     <tags>
