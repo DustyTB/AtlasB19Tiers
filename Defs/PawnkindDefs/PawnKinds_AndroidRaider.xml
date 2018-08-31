@@ -74,8 +74,8 @@
     </apparelMoney>
     <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
     <weaponMoney>
-      <min>21</min>
-      <max>100</max>
+      <min>51</min>
+      <max>150</max>
     </weaponMoney>
     <weaponTags>
       <li>NeolithicMeleeBasic</li>
