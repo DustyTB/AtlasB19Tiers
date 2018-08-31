@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Colonist Uplink\Assemblies\AndroidsAtlasTiers.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Colonist Uplink\Source\Androids\obj\Debug\Androids.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Colonist Uplink\Source\Androids\obj\Debug\AndroidsAtlasTiers.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Colonist Uplink\Source\Androids\obj\Debug\Androids.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Colonist Uplink\Source\Androids\obj\Debug\Androids.csproj.CopyComplete

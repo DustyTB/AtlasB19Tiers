@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RecipeDef>
+    <defName>ExtractMetalFromOther</defName>
+    <label>smelt metal into steel</label>
+    <description>Use heat and strong electromagnets to smelt metal from materials.</description>
+    <jobString>Smelting metal.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SteelWool</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+    </ingredients>
+    <products>
+      <Steel>50</Steel>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SteelWool</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+	 <recipeUsers>
+		<li>ElectricSmelter</li>
+      </recipeUsers>
+  </RecipeDef>
+  
+  <ThingDef ParentName="ResourceBase">
+    <defName>SteelWool</defName>
+    <label>metallic wool</label>
+    <description>Faux wool formed of hundreds of long, thing metallic strands, produced by the phytomining unit. Usually meant just for refining into steel, this material could also make some decent clothing at the expense of weight and lack of insulation.\n\n When human colonists wears clothing made from this they will get mood debuffs unless they are a masochist. Androids will not be affected.</description>
+    <graphicData>
+      <texPath>Things/SteelWool</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <MarketValue>8</MarketValue>
+      <Mass>0.025</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+    </statBases>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0.20</commonality>
+      <color>(82,82,82)</color>
+      <statOffsets>
+        <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+        <ArmorRating_Heat>-0.1</ArmorRating_Heat>
+      </statOffsets>
+      <statFactors>
+        <WorkToMake>2</WorkToMake>
+        <ArmorRating_Blunt>0.75</ArmorRating_Blunt>
+        <ArmorRating_Sharp>2</ArmorRating_Sharp>
+        <ArmorRating_Heat>0.75</ArmorRating_Heat>
+        <Insulation_Cold>0.4</Insulation_Cold>
+        <Insulation_Heat>0.4</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+  
+</Defs>
