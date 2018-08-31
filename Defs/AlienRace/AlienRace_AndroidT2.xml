@@ -181,7 +181,6 @@
 			<ArmorRating_Blunt>0.20</ArmorRating_Blunt>
 			<ArmorRating_Sharp>0.25</ArmorRating_Sharp>
 			<FoodPoisonChance>0.3</FoodPoisonChance>
-			<MechanoidOperationSuccessChance>0.08</MechanoidOperationSuccessChance>
 			<ButcheryFleshEfficiency>0.7</ButcheryFleshEfficiency>
 			<MedicalTendQuality>0.6</MedicalTendQuality>
 			<MedicalSurgerySuccessChance>0.8</MedicalSurgerySuccessChance>
