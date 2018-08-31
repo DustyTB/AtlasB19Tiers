@@ -1168,7 +1168,7 @@
 				<statOffsets>
 					<RangedWeapon_Cooldown>-0.35</RangedWeapon_Cooldown>
 					<MeleeWeapon_CooldownMultiplier>-0.3</MeleeWeapon_CooldownMultiplier>
-					<ShootingAccuracy>0.25</ShootingAccuracy>
+					<ShootingAccuracyPawn>0.25</ShootingAccuracyPawn>
 				</statOffsets>
 			</li>
 		</stages>
