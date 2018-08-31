@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">  
+	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">
 		<defName>Android1Tier</defName>
 		<label>T1 Android</label>
 		<description>As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.</description>
 		<alienRace>
 
-	<raceRestriction>
+			<raceRestriction>
 
-	<traitList>
-	<li>SimpleMindedAndroid</li>
-	</traitList>
+				<traitList>
+					<li>SimpleMindedAndroid</li>
+				</traitList>
 
-	
-	</raceRestriction>
+
+			</raceRestriction>
 			<generalSettings>
-							<forcedRaceTraitEntries>
-                <li>
-                    <defName>SimpleMindedAndroid</defName>
-                    <chance>100</chance>
-                </li>
-							</forcedRaceTraitEntries>
-			<!--Chemical Settings-->
-			            <chemicalSettings>
-                <li>
-                    <chemical>FractalP</chemical>
-                    <reactions>
-                        <li Class="IngestionOutcomeDoer_GiveHediff">
-                                <hediffDef>FractalPillAndroid</hediffDef>
-                                <severity>0.05</severity>
-                        </li>
-                    </reactions>
-                </li>
-                <li>
-                    <chemical>SGel</chemical>
-                    <reactions>
-                        <li Class="IngestionOutcomeDoer_GiveHediff">
-                                <hediffDef>SGelandroid</hediffDef>
-                                <severity>1</severity>
-                        </li>
-                    </reactions>
-                </li>
-                <li>
-                    <chemical>AFreeze</chemical>
-                    <reactions>
-                        <li Class="IngestionOutcomeDoer_GiveHediff">
-                                <hediffDef>AFreezeandroid</hediffDef>
-                                <severity>1</severity>
-                        </li>
-                    </reactions>
-                </li>
-                <li>
-                    <chemical>MSwarm</chemical>
-                    <reactions>
-                        <li Class="IngestionOutcomeDoer_GiveHediff">
-                                <hediffDef>MechSwarmandroid</hediffDef>
-                                <severity>1</severity>
-                        </li>
-                    </reactions>
-                </li>
-                <li>
-                    <chemical>RegenPillAT</chemical>
-                    <reactions>
-                        <li Class="IngestionOutcomeDoer_GiveHediff">
-                                <hediffDef>RegenAndroid</hediffDef>
-                                <severity>1</severity>
-                        </li>
-                    </reactions>
-                </li>
-						</chemicalSettings>
-			<maleGenderProbability>1</maleGenderProbability>
-			
+				<forcedRaceTraitEntries>
+					<li>
+						<defName>SimpleMindedAndroid</defName>
+						<chance>100</chance>
+					</li>
+				</forcedRaceTraitEntries>
+				<!--Chemical Settings-->
+				<chemicalSettings>
+					<li>
+						<chemical>FractalP</chemical>
+						<reactions>
+							<li Class="IngestionOutcomeDoer_GiveHediff">
+								<hediffDef>FractalPillAndroid</hediffDef>
+								<severity>0.05</severity>
+							</li>
+						</reactions>
+					</li>
+					<li>
+						<chemical>SGel</chemical>
+						<reactions>
+							<li Class="IngestionOutcomeDoer_GiveHediff">
+								<hediffDef>SGelandroid</hediffDef>
+								<severity>1</severity>
+							</li>
+						</reactions>
+					</li>
+					<li>
+						<chemical>AFreeze</chemical>
+						<reactions>
+							<li Class="IngestionOutcomeDoer_GiveHediff">
+								<hediffDef>AFreezeandroid</hediffDef>
+								<severity>1</severity>
+							</li>
+						</reactions>
+					</li>
+					<li>
+						<chemical>MSwarm</chemical>
+						<reactions>
+							<li Class="IngestionOutcomeDoer_GiveHediff">
+								<hediffDef>MechSwarmandroid</hediffDef>
+								<severity>1</severity>
+							</li>
+						</reactions>
+					</li>
+					<li>
+						<chemical>RegenPillAT</chemical>
+						<reactions>
+							<li Class="IngestionOutcomeDoer_GiveHediff">
+								<hediffDef>RegenAndroid</hediffDef>
+								<severity>1</severity>
+							</li>
+						</reactions>
+					</li>
+				</chemicalSettings>
+				<maleGenderProbability>1</maleGenderProbability>
+
 				<maxDamageForSocialfight>6</maxDamageForSocialfight>
 				<immuneToAge>false</immuneToAge>
 				<disallowedTraits>
@@ -83,17 +83,17 @@
 					<li>NightOwl</li>
 					<li>Jealous</li>
 					<li>Nudist</li>
-										<li>Transhumanist</li>
+					<li>Transhumanist</li>
 					<li>BodyPurist</li>
 					<li>SuperImmune</li>
 					<li>Beautiful</li>
 				</disallowedTraits>
-		   <notXenophobistTowards>
-              <li>Human</li>
-			  <li>Android4Tier</li>
-			  <li>Android3Tier</li>
-			  <li>Android2Tier</li>
-           </notXenophobistTowards>
+				<notXenophobistTowards>
+					<li>Human</li>
+					<li>Android4Tier</li>
+					<li>Android3Tier</li>
+					<li>Android2Tier</li>
+				</notXenophobistTowards>
 				<alienPartGenerator>
 					<alienbodytypes>
 						<li>Male</li>
@@ -154,7 +154,7 @@
 					<li>EnvironmentHot</li>
 				</cannotReceiveThoughts>
 			</thoughtSettings>
-		<relationSettings>
+			<relationSettings>
 				<relationChanceModifierChild>0</relationChanceModifierChild>
 				<relationChanceModifierExLover>1</relationChanceModifierExLover>
 				<relationChanceModifierExSpouse>1</relationChanceModifierExSpouse>
@@ -163,9 +163,9 @@
 				<relationChanceModifierParent>1</relationChanceModifierParent>
 				<relationChanceModifierSibling>1</relationChanceModifierSibling>
 				<relationChanceModifierSpouse>1</relationChanceModifierSpouse>
-		</relationSettings>
+			</relationSettings>
 		</alienRace>
-		
+
 		<statBases>
 			<MarketValue>3000</MarketValue>
 			<MoveSpeed>3.00</MoveSpeed>
@@ -253,7 +253,7 @@
 			<fleshType>Android</fleshType>
 			<bloodDef>CoolantAndroidTier</bloodDef>
 			<useMeatFrom>Alpaca</useMeatFrom>
-						<baseBodySize>0.8</baseBodySize>
+			<baseBodySize>0.8</baseBodySize>
 			<gestationPeriodDays>1</gestationPeriodDays>
 			<canBePredatorPrey>false</canBePredatorPrey>
 			<lifeStageAges>
@@ -291,75 +291,75 @@
 		<recipes>
 			<li>AdministerMechSerumHealer</li>
 			<li>InstallJoywire</li>
-	  <li>InstallBasicReplacementArm</li>
-      <li>InstallBasicReplacementLeg</li>
-	  <li>InstallLightReceivingDiode</li>
-	  <li>InstallCrudeHeatsink</li>
-	  <li>InstallFlimsyCoolantPump</li>
-	  <li>InstallSmallBatteryPack</li>
-	  <li>InstallTubeSealantTank</li>
-	  <li>InstallLowPowerTransformer</li>
-	  <li>InstallBasicDCConverter</li>
-	  <li>InstallBasicPlating</li>
-	  <li>RemoveBodyPartAndroid</li>
-	  <li>ShutdownAndroid</li>
-	  
-	  	  <li>InstallPositronMindImplant</li>
-	  <li>InstallSoldierMindImplant</li>
-	  <li>InstallBuilderMindImplant</li>
-	  <li>InstallSurgeonMindImplant</li>
-	  <li>InstallSpeedMindImplant</li>
-	  <li>InstallGeoMindImplant</li>
-	  <li>InstallMakeshiftReplacementArm</li>
-	  <li>InstallMakeshiftReplacementLeg</li>
-	  <li>InstallCrudeHearingS</li>
-	  
-	  <li>InstallHydraulicFrame</li>
-	  <li>InstallHydraulicReplacementLeg</li>
-	  <li>InstallHydraulicReplacementArm</li>
-	  
-	  <li>ReprogramTraitsAndroidSimple</li>
-	  <li>OverclockAndroid</li>
-	  <li>RemoveAndroidSentience</li>
+			<li>InstallBasicReplacementArm</li>
+			<li>InstallBasicReplacementLeg</li>
+			<li>InstallLightReceivingDiode</li>
+			<li>InstallCrudeHeatsink</li>
+			<li>InstallFlimsyCoolantPump</li>
+			<li>InstallSmallBatteryPack</li>
+			<li>InstallTubeSealantTank</li>
+			<li>InstallLowPowerTransformer</li>
+			<li>InstallBasicDCConverter</li>
+			<li>InstallBasicPlating</li>
+			<li>RemoveBodyPartAndroid</li>
+			<li>ShutdownAndroid</li>
+
+			<li>InstallPositronMindImplant</li>
+			<li>InstallSoldierMindImplant</li>
+			<li>InstallBuilderMindImplant</li>
+			<li>InstallSurgeonMindImplant</li>
+			<li>InstallSpeedMindImplant</li>
+			<li>InstallGeoMindImplant</li>
+			<li>InstallMakeshiftReplacementArm</li>
+			<li>InstallMakeshiftReplacementLeg</li>
+			<li>InstallCrudeHearingS</li>
+
+			<li>InstallHydraulicFrame</li>
+			<li>InstallHydraulicReplacementLeg</li>
+			<li>InstallHydraulicReplacementArm</li>
+
+			<li>ReprogramTraitsAndroidSimple</li>
+			<li>OverclockAndroid</li>
+			<li>RemoveAndroidSentience</li>
 		</recipes>
 		<butcherProducts>
 			<Plasteel>25</Plasteel>
 			<ComponentIndustrial>2</ComponentIndustrial>
 		</butcherProducts>
 		<modExtensions>
-    <li Class="MOARANDROIDS.AndroidTweaker">
-        <tweakCorpseRot>true</tweakCorpseRot>
-    </li>
-</modExtensions>
+			<li Class="MOARANDROIDS.AndroidTweaker">
+				<tweakCorpseRot>true</tweakCorpseRot>
+			</li>
+		</modExtensions>
 	</AlienRace.ThingDef_AlienRace>
 
-	  <TraitDef>
-    <defName>SimpleMindedAndroid</defName>
-	    <commonality>1</commonality>
-    <degreeDatas>
-      <li>
-        <label>Simple minded</label>
-        <description>Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.</description>
-		<statOffsets>
-          <SocialImpact>-0.90</SocialImpact>
-        </statOffsets>
-      </li>
-    </degreeDatas>
-  </TraitDef>
-  
-    <ThoughtDef>
-    <defName>MoodOffsetSimpleMindedAndroid</defName>
-    <workerClass>ThoughtWorker_AlwaysActive</workerClass>
-    <validWhileDespawned>true</validWhileDespawned>
-    <requiredTraits>
-      <li>SimpleMindedAndroid</li>
-    </requiredTraits>
-    <stages>
-      <li>
-        <label>Simple mind</label>
-        <description>I am unable to fully feel emotion.</description>
-        <baseMoodEffect>20</baseMoodEffect>
-      </li>
-    </stages>
-  </ThoughtDef>
+	<TraitDef>
+		<defName>SimpleMindedAndroid</defName>
+		<commonality>1</commonality>
+		<degreeDatas>
+			<li>
+				<label>Simple minded</label>
+				<description>Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.</description>
+				<statOffsets>
+					<SocialImpact>-0.90</SocialImpact>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<ThoughtDef>
+		<defName>MoodOffsetSimpleMindedAndroid</defName>
+		<workerClass>ThoughtWorker_AlwaysActive</workerClass>
+		<validWhileDespawned>true</validWhileDespawned>
+		<requiredTraits>
+			<li>SimpleMindedAndroid</li>
+		</requiredTraits>
+		<stages>
+			<li>
+				<label>Simple mind</label>
+				<description>I am unable to fully feel emotion.</description>
+				<baseMoodEffect>20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
 </Defs>
