@@ -18,6 +18,7 @@
 		<titleShort>Transcendant</titleShort>
 		<baseDescription>NAME is an highly advanced android, they come from a civilisation where the human population had transcended into mechanical or quantum forms of pure perfection.</baseDescription>
 		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
 		<slot>Adulthood</slot>
 		<spawnCategories>
 			<li>AndroidTiers</li>

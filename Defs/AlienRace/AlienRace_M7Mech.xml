@@ -355,6 +355,7 @@
 		<titleShort>Mech</titleShort>
 		<baseDescription>NAME is a form of mechanized infantry, very powerful war units that are unfortunately very weakly programmed.</baseDescription>
 		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
 		<slot>Adulthood</slot>
 				<spawnCategories>
 			<li>Mechdrop</li>
