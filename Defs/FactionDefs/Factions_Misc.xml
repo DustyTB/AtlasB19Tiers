@@ -14,7 +14,7 @@
     <autoFlee>false</autoFlee>
     <techLevel>Neolithic</techLevel>
     <canUseAvoidGrid>false</canUseAvoidGrid>
-    <homeIconPath>World/WorldObjects/DefaultFactionBase</homeIconPath>
+    <homeIconPath>World/WorldObjects/DefaultSettlement</homeIconPath>
   </FactionDef>
 
   <FactionDef ParentName="PlayerFactionBase">
@@ -112,7 +112,7 @@
         </options>
       </li>
     </pawnGroupMakers>
-    <homeIconPath>World/WorldObjects/DefaultFactionBase</homeIconPath>
+    <homeIconPath>World/WorldObjects/DefaultSettlement</homeIconPath>
   </FactionDef>
 
   <FactionDef>
@@ -209,6 +209,6 @@
         </options>
       </li>
     </pawnGroupMakers>
-    <homeIconPath>World/WorldObjects/DefaultFactionBase</homeIconPath>
+    <homeIconPath>World/WorldObjects/DefaultSettlement</homeIconPath>
   </FactionDef>
 </Defs>
